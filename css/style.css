@@ -168,7 +168,7 @@ a {
                                 Intro Section              
 --------------------------------------------------------------------------------*/
 #intro {
-    background: url('..//images/office.jpg') 10% 0 repeat-y fixed;
+    background: url('..//images/mainimage.jpeg') 10% 0 repeat-y fixed;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
